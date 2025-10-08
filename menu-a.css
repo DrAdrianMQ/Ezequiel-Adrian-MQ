@@ -1,0 +1,4 @@
+.menu { font-family: Arial, sans-serif; }
+.menu ul { list-style: none; padding: 0; margin: 0; display: flex; gap: 24px; }
+.menu a { text-decoration: none; color: #111; padding: 8px 12px; }
+.menu a:hover { background: #f2f2f2; border-radius: 6px; }
